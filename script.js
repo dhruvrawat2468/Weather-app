@@ -1,5 +1,5 @@
 //Assign the copied API key to the 'key' variable
-key = "5b238f8a3cfdb1aa1fc148d661f45242";
+key = "your API KEY";
 let result = document.getElementById("result");
 let searchBtn = document.getElementById("search-btn");
 let cityRef = document.getElementById("city");
